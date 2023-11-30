@@ -1,2 +1,2 @@
-# Test_Repository
+# TestRepository
 ゲーム数学B Test
